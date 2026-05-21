@@ -42,7 +42,7 @@
 
 Скриншот страницы, которая открылась при запросе IP-адреса балансировщика
 
-![screen](screenshots/Screenshot from 2026-05-21 15-50-25.png)
+![screen](screenshots/Screenshot\ from\ 2026-05-21\ 15-50-25.png)
 
 
 
